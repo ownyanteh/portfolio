@@ -35,13 +35,13 @@ nav {
     background-size: cover;
     padding-top: 50px;
 }
-
+/* 
 .hero-info{
     width: 50%;
     padding-top: 48px;
-    /* line-height: 28.8px; */
+    line-height: 28.8px; 
     margin-top: 48px;
-}
+} */
 .title{
     font-size: 60px;
 }
